@@ -10,6 +10,7 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** que perm
 - Interfaz gráfica amigable (JavaFX o Swing)
 - Conexión con base de datos MySQL
 - Arquitectura MVC
+![Vista de la interfaz](Capturas_proyecto/cop3.png)
 
 ## 🛠️ Tecnologías utilizadas
 - Java 17
