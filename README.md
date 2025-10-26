@@ -1,6 +1,8 @@
 # 💱 Conversor de Monedas Java
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java** que permite **convertir monedas** entre diferentes divisas y visualizar **gráficos estadísticos** del comportamiento histórico de los tipos de cambio.
+![Vista de la interfaz](Capturas_proyecto/cop1.png)
+
 
 ## 🚀 Características
 - Conversión en tiempo real entre monedas
